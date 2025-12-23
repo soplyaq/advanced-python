@@ -1,4 +1,3 @@
-
 num1 = float(input("First number: "))
 op = input("Operation (+, -, *, /): ")
 num2 = float(input("Second number: "))
