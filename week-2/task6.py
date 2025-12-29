@@ -13,5 +13,5 @@ def all_eq(lst):
 
     return result
 
-print(all_eq(["hi", "hello", "hey"]))
+print(all_eq(["wow", "mimi", "lyalya"]))
 

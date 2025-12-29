@@ -1,6 +1,6 @@
 import re
 
-allowed = "ABCEHKMOPTXY"
+allowed = "ABCEFHKMOPTXYZ"
 pattern = re.compile(f"^[{allowed}][0-9]{{3}}[{allowed}]{{2}}$")
 
 n = int(input())
